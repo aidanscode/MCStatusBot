@@ -1,0 +1,15 @@
+{
+  "name": "mcstatusbot",
+  "version": "1.0.0",
+  "description": "Updates the status of a minecraft server in a discord chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Murphey",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1",
+    "minecraft-protocol": "^1.11.0"
+  }
+}
